@@ -1,7 +1,7 @@
-##prompt:
+## Prompt:
 Eu preciso desenhar um projeto de uma habitação residencial de até 300m2. A casa precisa de uma sala de estar, sala de jantar, cozinha, lavanderia, banheiro social, dois quartos e uma suite. Me ajude com as dimensões do projeto.
 
-##resposta:
+## Resposta:
 
 Olá! Com certeza posso ajudar com um ponto de partida para as dimensões do seu projeto residencial. É uma ótima área de 300m², que permite criar ambientes confortáveis e bem funcionais.
 
